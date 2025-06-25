@@ -1,4 +1,4 @@
-React Chatbot
+REACT CHATBOT2.0
 
 This is a simple, interactive chatbot application built with React, leveraging the Google Gemini API for conversational AI. The project provides a clean user interface where users can ask questions and receive responses from a powerful language model.
 
