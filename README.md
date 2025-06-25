@@ -1,4 +1,5 @@
 React Chatbot
+
 This is a simple, interactive chatbot application built with React, leveraging the Google Gemini API for conversational AI. The project provides a clean user interface where users can ask questions and receive responses from a powerful language model.
 
 ✨ Features
@@ -11,6 +12,7 @@ Copy Chat: Easily copy the entire conversation log to your clipboard.
 Responsive Design: A basic layout designed for a modern web experience.
 
 🚀 Technologies Used
+
 React: A JavaScript library for building user interfaces.
 
 Vite: A fast build tool that provides a rapid development experience.
@@ -20,6 +22,7 @@ Google Gemini API (via @google/generative-ai): Powers the conversational AI capa
 CSS: For styling and layout.
 
 ⚙️ Setup and Installation
+
 Follow these steps to get the project up and running on your local machine.
 
 1. Clone the Repository (or initialize if starting from scratch)
@@ -59,6 +62,7 @@ npm run dev
 This command will typically open your browser to http://localhost:5173/ (or another available port) where you can interact with the chatbot.
 
 💡 Usage
+
 Type a message: Enter your question or prompt into the input field at the bottom of the chat window.
 
 Send message: Press Enter or click the "Send" (arrow) button to send your message.
@@ -85,6 +89,7 @@ chatbot-react/
 └── README.md                   # This file
 
 🔮 Future Enhancements
+
 User Authentication: Implement user login to save chat history.
 
 Theming Options: Allow users to switch between light/dark modes or other themes.
@@ -98,4 +103,5 @@ Load Previous Chats: Store and retrieve past conversations.
 Typing Indicator: A more dynamic typing indicator for the bot.
 
 📄 License
+
 This project is open-source and available under the MIT License.
